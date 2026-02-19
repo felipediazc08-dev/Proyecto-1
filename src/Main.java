@@ -4,9 +4,17 @@ import java.sql.SQLOutput;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+
         System.out.println("Sebastian Alejandro Merchan Torres");
         System.out.println("Mis 3 Hobbies jugar videojuegos, ver peliculas y ver series");
         System.out.println("practico basquetball");
+
+
+        System.out.printf("============================================");
+        System.out.println("Andres Felipe Diaz Cortes");
+        System.out.println("Entrenar,Escuchar musica,Dibujar");
+        System.out.println("Levantamiendo de pesas");
+        System.out.println("===========================================");
 
     }
 }
